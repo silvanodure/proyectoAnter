@@ -1,0 +1,6 @@
+console.log('hola como va')
+
+let menu = document.getElementById('#menu');
+let menuNav = document.querySelector('.menuDeNavegacion');
+
+m
